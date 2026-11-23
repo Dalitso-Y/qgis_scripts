@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use these scripts in published work, cite the repository and the specific script/version used."
+title: "QGIS Scripts"
+type: software
+authors:
+  - name: "Dalitso Yambani"
+license: MIT
+abstract: "A collection of scripts and templates for QGIS geospatial workflows."

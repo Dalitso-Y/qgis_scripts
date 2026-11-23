@@ -1,0 +1,2 @@
+# Static tools only. QGIS/PyQGIS is provided by a separately installed QGIS distribution.
+ruff>=0.9,<1.0
